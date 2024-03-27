@@ -25,7 +25,7 @@ Please feel free to bring your lunch.
 ## Important information
 
 For the workshop, you will need:
-* To have completed the pre-requisite activitiy (see LINK)
+* To have completed the pre-requisite activitiy (see [here](https://github.com/UoM-R-Workshop/Pre_requisite))
 * A laptop
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
