@@ -3,7 +3,7 @@
 
 Welcome to the homepage for the University of Manchester's workshop: '_Introduction to Data Analysis in R and RStudio for Maternal and Fetal Health Research_'
 
-This GitHub page contains all the documents you will need for the workshop. We will also use this page to share links to all resources needed for the workshop and follow-on activities.
+This GitHub page contains all the documents you will need for the workshop. We will email all files to you directly, but this GitHub will serve as a one-stop-shop for future reference.
 
 This workshop will take place on **Tuesday 9th April** at **St Mary's Hospital, 5th Floor Seminar Rooms A&B**, from **12:30 until 15:30**. To register for the workshop, please use the following [link](https://forms.office.com/e/gXJPqim4gh).
 
