@@ -31,6 +31,27 @@ For the workshop, you will need:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- COURSE MATERIAL  -->
+## Course contents and material
+
+This course will consist of several modules. These include:
+1. Loading and manipulating data
+2. Summarising data
+3. Visualising data
+4. Hypothesis testing
+5. Modelling
+
+All course files are contained on this GitHub page. They can be found in the following repositories:
+* [Data](https://github.com/UoM-R-Workshop/Data)
+* [Pre-requisite](https://github.com/UoM-R-Workshop/Pre_requisite)
+
+The remaining course content will be uploaded in due course
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
