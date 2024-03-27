@@ -15,7 +15,7 @@ The aim of this workshop is to give a foundational understanding of the statisti
 
 Learning objectives include:
 1. To understand how the R programming language works (understanding the ‘syntax’)
-2. To be able to confidently work through a data analysis lifecycle using R:
+2. To be able to confidently work through a data analysis lifecycle using R: Preparing, summarising, visualising and analysing data
 3. Running and interpreting basic hypothesis tests and regression-based models
 
 ### Contact details
