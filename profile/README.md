@@ -7,16 +7,20 @@ This GitHub page contains all the documents you will need for the workshop. We w
 
 This workshop will take place on **Tuesday 9th April** at **St Mary's Hospital, 5th Floor Seminar Rooms A&B**, from **12:30 until 15:30**. To register for the workshop, please use the following [link](https://forms.office.com/e/gXJPqim4gh).
 
-The workshop is intended to be hands-on and will cover all steps of a data analysis lifecycle in R, including importing, preparation, visualisation and analysis of healthcare data. A laptop will be required for you to take part.
+The workshop is intended to be hands-on and will cover all steps of a data analysis lifecycle in R, including importing, preparation, visualisation and analysis of healthcare data. A laptop will be required for you to take part. Please feel free to bring your lunch.
+
+### Aims and objectives
+
+The aim of this workshop is to give a foundational understanding of the statistics needed to conduct maternal and fetal health research, and how to programme these using R. It is aimed at those who have no prior programming experience or knowledge or R, and only limited knowledge of basic statistics.
 
 Learning objectives include:
 1. To understand how the R programming language works (understanding the ‘syntax’)
 2. To be able to confidently work through a data analysis lifecycle using R:
 3. Running and interpreting basic hypothesis tests and regression-based models
 
-If you have any questions about the workshop, please contact harriet.cant@manchester.ac.uk or victoria.palin@manchester.ac.uk
+### Contact details
 
-Please feel free to bring your lunch.
+If you have any questions about the workshop, please contact harriet.cant@manchester.ac.uk or victoria.palin@manchester.ac.uk
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -27,6 +31,15 @@ Please feel free to bring your lunch.
 For the workshop, you will need:
 * To have completed the pre-requisite activitiy (see [here](https://github.com/UoM-R-Workshop/Pre_requisite))
 * A laptop
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- About R and RStudio -->
+## About R and RStudio
+
+R is a statistical computing software and a programming language commonly used for analysing data. It’s free to use and is open-source, meaning a large community of users can contribute to its maintenance. This has resulted in a software which is well equipped for analysing data, and a popularity within the academic community. RStudio is a separate software that works together with R. RStudio is what’s known as an 'Integrated Development Environment', which is basically a front-end application that makes R more user-friendly. You need to have R installed in order for RStudio to work, but you’ll likely only directly work with the RStudio application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
