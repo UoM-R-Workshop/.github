@@ -29,7 +29,7 @@ If you have any questions about the workshop, please contact harriet.cant@manche
 ## Important information
 
 For the workshop, you will need:
-* To have completed the pre-requisite activitiy (see [here](https://github.com/UoM-R-Workshop/Pre_requisite))
+* To have completed the pre-requisite activity (see [here](https://github.com/UoM-R-Workshop/Pre_requisite))
 * A laptop
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
