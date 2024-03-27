@@ -63,10 +63,28 @@ The remaining course content will be uploaded in due course
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- DATA  -->
+## Data 
+
+We will be using data collected from an online study of 410 mother-infant pairs. This data was collected as part of a 2022 study by Sandoz et al., who aimed to better understand the link between maternal mental health and infant sleep:
+
+> Sandoz V, Lacroix A, Stuijfzand S, Bickle Graz M, Horsch A. Maternal Mental Health Symptom Profiles and Infant Sleep: A Cross-Sectional Survey. Diagnostics. 2022; 12(7):1625.
+
+The study can be read here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9319039/ 
+
+The data can be downloaded from the following page (here)[https://github.com/UoM-R-Workshop/Data/blob/main/data_input.csv]. To download the file, please visit the link and either (1) press the three dots at the top of the screen and click ‘Download’, or (2) press the save icon, or (3) Ctrl + shift + S.
+
+The original file is available on Zenodo: https://zenodo.org/records/5070945#.Y8Oq4NJBwUE  (Dataset_maternal_mental_health_infant_sleep.csv). However, we recommend not using this file as there are some minor formatting errors, as well as variables which are not of interest for this workshop.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+This course has been developed by Harriet Cant and Dr Vicki Palin. We would like to acknowledge Dr Hannah Lennon, whose teaching materials provided the basis of this workshop, and Chantelle Cornett, for her valuable feedback on the course content and assistance in delivering the workshop on the day.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
