@@ -9,8 +9,9 @@ This workshop will take place on **Tuesday 9th April** at **St Mary's Hospital, 
 
 The workshop is intended to be hands-on and will cover all steps of a data analysis lifecycle in R, including importing, preparation, visualisation and analysis of healthcare data. A laptop will be required for you to take part. Please feel free to bring your lunch.
 
-<!-- AIMS  -->
 
+
+<!-- AIMS  -->
 ## Aims and objectives
 
 The aim of this workshop is to give a foundational understanding of the statistics needed to conduct maternal and fetal health research, and how to programme these using R. It is aimed at those who have no prior programming experience or knowledge or R, and only limited knowledge of basic statistics.
@@ -19,6 +20,8 @@ Learning objectives include:
 1. To understand how the R programming language works (understanding the ‘syntax’)
 2. To be able to confidently work through a data analysis lifecycle using R: Preparing, summarising, visualising and analysing data
 3. Running and interpreting basic hypothesis tests and regression-based models
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- IMPORTANT INFO  -->
