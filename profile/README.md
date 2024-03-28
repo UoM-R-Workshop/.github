@@ -28,8 +28,6 @@ For the workshop, you will need:
 * To have completed the pre-requisite activity, which includes downloading the data and installing the necessary software (see [here](https://github.com/UoM-R-Workshop/Pre_requisite)). This should take no longer than **1 hour**.
 * A laptop
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 If you have any questions about the workshop, or can no longer attend, please contact harriet.cant@manchester.ac.uk or victoria.palin@manchester.ac.uk
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
