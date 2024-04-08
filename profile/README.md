@@ -29,7 +29,7 @@ Learning objectives include:
 
 For the workshop, you will need:
 * To have completed the pre-requisite activity, which includes downloading the data and installing the necessary software (see [here](https://github.com/UoM-R-Workshop/Pre_requisite)). This should take no longer than **1 hour**.
-* A laptop
+* A laptop (with sufficient charge)
 
 If you have any questions about the workshop, or can no longer attend, please contact harriet.cant@manchester.ac.uk or victoria.palin@manchester.ac.uk
 
@@ -45,18 +45,27 @@ R is a statistical computing software and a programming language commonly used f
 
 
 <!-- COURSE MATERIAL  -->
-## Course contents and material
+## Course material and files
 
 This course will consist of several modules. These include:
-1. Loading and manipulating data
+1. Loading and cleaning data
 2. Summarising data
 3. Visualising data
 4. Hypothesis testing
 5. Modelling
 
+We will run the workshop in two halves, with a break between. Each part has two code files: one which contains all the code we will go through together, and another which contains the solutions to the activities.
+
 All course files are contained on this GitHub page. They can be found in the following repositories:
 * [Data](https://github.com/UoM-R-Workshop/Data)
-* [Pre-requisite](https://github.com/UoM-R-Workshop/Pre_requisite)
+* * [Data description](https://github.com/UoM-R-Workshop/Data/blob/main/Data%20description.pdf)
+* [Pre-requisite activity](https://github.com/UoM-R-Workshop/Pre_requisite)
+* Code files
+* *[Course content: PART 1](https://github.com/UoM-R-Workshop/Code/blob/main/PART1_CourseContent.R)
+* *[Course content: PART 2](https://github.com/UoM-R-Workshop/Code/blob/main/PART2_CourseContent.R)
+* *[Activity solutions: PART 1](https://github.com/UoM-R-Workshop/Code/blob/main/PART1_Activities.R)
+* *[Activity solutions: PART 2](https://github.com/UoM-R-Workshop/Code/blob/main/PART2_Activities.R)
+* [Slides](https://github.com/UoM-R-Workshop/Slides/blob/main/WorkshopSlides.pdf)
 
 The remaining course content will be uploaded in due course
 
@@ -76,6 +85,8 @@ The data can be downloaded from the following page (here)[https://github.com/UoM
 
 The original file is available on Zenodo: https://zenodo.org/records/5070945#.Y8Oq4NJBwUE  (Dataset_maternal_mental_health_infant_sleep.csv). However, we recommend not using this file as there are some minor formatting errors, as well as variables which are not of interest for this workshop.
 
+A description of the data can be found [here](https://github.com/UoM-R-Workshop/Data/blob/main/Data%20description.pdf).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -85,6 +96,6 @@ The original file is available on Zenodo: https://zenodo.org/records/5070945#.Y8
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This course has been developed by Harriet Cant and Dr Vicki Palin. We would like to acknowledge Dr Hannah Lennon, whose teaching materials provided the basis of this workshop, and Chantelle Cornett, for her valuable feedback on the course content and assistance in delivering the workshop on the day.
+This course has been developed by Harriet Cant and Dr Vicki Palin. We would like to acknowledge Dr Hannah Lennon, whose teaching materials provided the basis of this workshop, and Chantelle Cornett, for her feedback on the course content and assistance in delivering the workshop on the day.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
