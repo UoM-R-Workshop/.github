@@ -58,13 +58,13 @@ We will run the workshop in two halves, with a break between. Each part has two 
 
 All course files are contained on this GitHub page. They can be found in the following repositories:
 * [Data](https://github.com/UoM-R-Workshop/Data)
-* * [Data description](https://github.com/UoM-R-Workshop/Data/blob/main/Data%20description.pdf)
+  * [Data description](https://github.com/UoM-R-Workshop/Data/blob/main/Data%20description.pdf)
 * [Pre-requisite activity](https://github.com/UoM-R-Workshop/Pre_requisite)
 * Code files
-* *[Course content: PART 1](https://github.com/UoM-R-Workshop/Code/blob/main/PART1_CourseContent.R)
-* *[Course content: PART 2](https://github.com/UoM-R-Workshop/Code/blob/main/PART2_CourseContent.R)
-* *[Activity solutions: PART 1](https://github.com/UoM-R-Workshop/Code/blob/main/PART1_Activities.R)
-* *[Activity solutions: PART 2](https://github.com/UoM-R-Workshop/Code/blob/main/PART2_Activities.R)
+  *[Course content: PART 1](https://github.com/UoM-R-Workshop/Code/blob/main/PART1_CourseContent.R)
+  *[Course content: PART 2](https://github.com/UoM-R-Workshop/Code/blob/main/PART2_CourseContent.R)
+  *[Activity solutions: PART 1](https://github.com/UoM-R-Workshop/Code/blob/main/PART1_Activities.R)
+  *[Activity solutions: PART 2](https://github.com/UoM-R-Workshop/Code/blob/main/PART2_Activities.R)
 * [Slides](https://github.com/UoM-R-Workshop/Slides/blob/main/WorkshopSlides.pdf)
 
 The remaining course content will be uploaded in due course
